@@ -1,0 +1,17 @@
+/**
+ * Copyright (C) 2019 Urban Compass, Inc.
+ */
+package com.nathanielmorihara;
+
+/**
+ * @author nathaniel.morihara
+ */
+public class Location {
+  double x;
+  double y;
+
+  public Location(double x, double y) {
+    this.x = x;
+    this.y = y;
+  }
+}
